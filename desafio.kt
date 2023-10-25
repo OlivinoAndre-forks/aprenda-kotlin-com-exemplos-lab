@@ -99,12 +99,3 @@ fun main() {
         println("${nome} tem ${inscritos.count()} inscritos")
     }
 }
-2023-10-25T14:24:14.413509142 curso curso 1 criado.
-2023-10-25T14:24:14.414539994 curso curso 2 criado.
-2023-10-25T14:24:14.414616134 curso curso 3 criado.
-2023-10-25T14:24:14.421886164 formação formacao 1 criada com nivel INTERMEDIARIO.
-2023-10-25T14:24:14.421979563 formação formacao 2 criada com nivel AVANCADO.
-2023-10-25T14:24:14.422027018 formação formacao 3 criada com nivel AVANCADO.
-formacao 1 tem 1 inscritos
-formacao 2 tem 2 inscritos
-formacao 3 tem 3 inscritos
