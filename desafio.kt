@@ -1,17 +1,4 @@
 // [Template no Kotlin Playground](https://pl.kotl.in/WcteahpyN)
-
-Solutions
-Docs
-Community
-Teach
-Play
-
-1.9.10
-JVM
-Program arguments
-Copy link
-Share code
-Run
 import java.time.LocalDateTime
 ​
 object SimpleLog {
